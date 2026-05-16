@@ -31,9 +31,14 @@ while True:
     ClientMessage=c.recv(1024).decode() 
     c.send(ClientMessage.encode())
 ## OUPUT
-<img width="677" height="80" alt="cn 3 a 1" src="https://github.com/user-attachments/assets/595e0e3d-b965-433f-9a96-08941c509280" />
 
-<img width="668" height="185" alt="cn 3 a 2" src="https://github.com/user-attachments/assets/985c349f-da25-41a3-ab3b-649e6a1fe019" />
+CLIENT
+
+<img width="1920" height="877" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/232aec62-426c-46b6-9e54-759cca2ec072" />
+
+
+SERVER
+<img width="1920" height="961" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/c956e73f-4324-4af2-bf84-0de2e6596cb9" />
 
 
 ## RESULT
